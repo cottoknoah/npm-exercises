@@ -1,3 +1,3 @@
 # npm-exercises
 
-## Building Mini Calc w/ Javascript
+## Building Mini Calculator with Javascript
